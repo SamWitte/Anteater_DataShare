@@ -5,7 +5,7 @@ Details on Anteater (to be made public in near future):
 This code is intended to accurately compute the expected radio signal from axion-photon conversion in the magnetospheres of neutron stars. At the moment this is currently written for the Goldreich-Julien model, and assuming an axion phase space distribution consistent with a neutron star at rest relative to the dark matter halo. The primary code is written in Julia, and the plots are generated partially with Julia and partially with python. 
 
 
-** Important, the files must be downloaded Zenodo, with doi link: 10.5281/zenodo.4604619 
+** Important, the files must be downloaded Zenodo, with doi link: 10.5281/zenodo.4604619  (https://zenodo.org/record/4604619#.YHxdYxSA52R)
 These files should be put in src/results directory.
 
 
